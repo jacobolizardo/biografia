@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Biografía</title>
+</head>
+<body>
+	<h1>Biografía</h1>
+	<p>Que tal mi nombre es lizardo jacobo soy estudiante de licenciatura de informatica en la UASD nacio el 20 de octubre del 1992 actualmente este es mi sexto semestre en la universidad la cual mis conocimientos tiene que ver con el hardware</p>
+</body>
+</html>
